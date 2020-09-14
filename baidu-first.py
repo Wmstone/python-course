@@ -44,5 +44,5 @@ def search_by_word(word):
 
     return course_dict
 
-course_dict = search_by_word("李志文")
+course_dict = search_by_word("")
 print(course_dict)
